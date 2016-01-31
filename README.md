@@ -1,0 +1,2 @@
+# core
+CoreComputisum git repository
